@@ -38,13 +38,9 @@ NextStep bridges the gap between **local authorities and citizens** by providing
 ---
 
 ## 📱 Screenshots  
-<div align="center">
-  <img src="ScreenShot/login.jpg" alt="Image description" hight="20"/><br/>
-  <img src="runs/detect/predict/test-1.jpeg" alt="Image description" width="500"/><br/>
-  <img src="runs/detect/predict/test-2.webp" alt="Image description" width="500"/><br/>
-  <img src="runs/detect/predict/test-3.webp" alt="Image description" width="500"/><br/>
-  <img src="runs/detect/predict/test-4.webp" alt="Image description" width="500"/>
-</div> 
+![Home](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/login.jpg)
+
+  
 ---
 
 ## 🎯 Features  
