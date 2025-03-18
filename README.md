@@ -38,9 +38,9 @@ NextStep bridges the gap between **local authorities and citizens** by providing
 ---
 
 ## 📱 Screenshots  
-| Home Page | SignUp | Surveys |  
+| Home Page | SignUp | Forgot |  
 |-----------|------------|---------|  
-| ![Home](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/login.jpg)) | ![SignUp](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/create.jpg) | ![Surveys](https://github.com/dev261004/NextStep/tree/main/ScreenShot/surveys.png) |  
+| ![Home](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/login.jpg)) | ![SignUp](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/create.jpg) | ![Forgot](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/forgot.jpg) |  
 
   
 ---
