@@ -42,9 +42,9 @@ NextStep bridges the gap between **local authorities and citizens** by providing
 |-----------|------------|---------|  
 | ![Login](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/login.jpg) | ![SignUp](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/create.jpg) | ![Forgot](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/forgot.jpg) |  
 
-| Profile | Home | Chat |  
-|-----------|------------|---------|  
-| ![Profile](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/profile.jpg) | ![Home](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/home.jpg) | ![Chat](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/connect.jpg) |  
+| Profile | Home | Chat |  Submission |
+|-----------|------------|---------|-----------| 
+| ![Profile](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/profile.jpg) | ![Home](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/home.jpg) | ![Chat](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/connect.jpg) |  ![Submission](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/submission.jpg) |
 
 
 | Submission |
