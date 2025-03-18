@@ -38,13 +38,19 @@ NextStep bridges the gap between **local authorities and citizens** by providing
 ---
 
 ## 📱 Screenshots  
-| Home Page | SignUp | Forgot |  
+|  Login | SignUp | Forgot |  
 |-----------|------------|---------|  
-| ![Home](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/login.jpg) | ![SignUp](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/create.jpg) | ![Forgot](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/forgot.jpg) |  
+| ![Login](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/login.jpg) | ![SignUp](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/create.jpg) | ![Forgot](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/forgot.jpg) |  
 
-| Profile | SignUp | Forgot |  
+| Profile | Home | Chat |  
 |-----------|------------|---------|  
-| ![Profile](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/profile.jpg) | ![SignUp](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/create.jpg) | ![Forgot](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/forgot.jpg) |  
+| ![Profile](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/profile.jpg) | ![Home](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/home.jpg) | ![Chat](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/connect.jpg) |  
+
+
+| Submission |
+|-----------| 
+| ![Submission](https://github.com/Pradeep-1496/NextStep/blob/main/ScreenShot/submission.jpg)
+
 
   
 ---
