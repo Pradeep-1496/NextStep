@@ -65,4 +65,4 @@ NextStep bridges the gap between **local authorities and citizens** by providing
    git clone https://github.com/dev261004/NextStep.git
    cd NextStep
 
-   Npm start
+   npm start
